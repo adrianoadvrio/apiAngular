@@ -39,7 +39,7 @@ Registro de datos:
 
 
 Seagger (testeo de envío y recepición)
- http://localhost:8080/swagger-ui.html#/turno45resource   la aplicación de testeo funciona independientemente del front end, es justamente para verificar las requisiciones HTPP  en  JSON.  (pulsar en    produto-resource
+ http://localhost:8080/swagger-ui.html#/turno45resource   la aplicación de testeo funciona independientemente del front end, es justamente para verificar las requisiciones HTPP  en  JSON.  (pulsar en    produto-resource)
 
 
 
